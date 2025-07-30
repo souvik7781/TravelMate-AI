@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="50" alt="IBM Logo">
   &nbsp;&nbsp;&nbsp;
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d3/IBM_Cloud_logo_2018.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhJxmmmi_ibm-cloud-ibm-cloud-services-logo-hd-png%2F&psig=AOvVaw3YZvT_NRUuslE7RXDxeA8f&ust=1753986661485000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODfwtmb5Y4DFQAAAAAdAAAAABAE)" height="50" alt="IBM Cloud Logo">
-  &nbsp;&nbsp;&nbsp;
   <img src="https://edunetfoundation.org/assets/img/logo/logo.png" height="50" alt="Edunet Foundation Logo">
 </p>
 
