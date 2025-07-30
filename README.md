@@ -63,7 +63,7 @@ TravelMate AI is an AI-powered Travel Planner Agent that uses **Natural Language
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="40" alt="IBM Logo">
   &nbsp;&nbsp;&nbsp;
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEVHcEwvweZD5thI8dtG7tguv+Ezx+JE6dlJ8dU/3tUzyeA61uc929wjqt9M+d1C5dg0zOU20OE1zeE/39tI8t02zeA20+5K+OUakNA0y+I20OI62ec30eMen/Atv+wzyuo3094fovUlsPAcnPEQfu8uwOopuPAkquoiqfJF8egGbvojq/Mgo+861d4dnu840N8MgfQRhfQIb/wTi/UHc/kKd/kDa/0rueQAZf8AZP4AZP8AY/8QfvcAY/8AY/8bmvYBa/8Je/4RjP4Yl/rWKJ0NAAAARHRSTlMAGRKIdxMdmCUNT+F/B+01029HPLxBwcgEZqvFsx2M/VNR6HoM0rEqzsAYoPKTj78SNypgDYauJr9aNOIoWGPh0tHRzk0CBygAAAEUSURBVHgBdNBTAsNQFADRiVnbtt3sf2FljPM7j5cIQSSbJJNCUfnS/lE3CDOtf7QBcvkCEcUSQLkCIFWJqtVzuMSGnriVZqvd6doVEEPP7/GV6w+6rVplaNvuhboIjMaTKaizueqeWi40QZTyFYDFct5k3A+dZWCsqu7FrNlsgqbWhrXwqBbbYJtplsut3S6okz0uZaEAGK2D+4Rjbn9yW07B1TrkAE7n3OSIG/G1S992IXe5klA7ALcznFKiUFRY3z9hnRKVmcr5noPmlITHLMfxuQaaidZszYG7Q6px+T0gYWVtg0WKVwMSLrbWdlomKihA1tgeFthWFtYOQOAIAk4g4GzvrIgwxMQIAWyAQIWBlgAA4aMdUiejG+EAAAAASUVORK5CYII=" height="40" alt="IBM Cloud Logo">
+  <img src="https://user-images.githubusercontent.com/27962005/35868522-b81474fe-0b2a-11e8-8108-7efe8ead8107.png" height="40" alt="IBM Cloud Logo">
   &nbsp;&nbsp;&nbsp;
   <img src="https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png" height="40" alt="Edunet Foundation Logo">
 </p>
