@@ -75,7 +75,7 @@ Special thanks to **IBM**, **IBM Cloud**, and **Edunet Foundation** for providin
 
 **Souvik Nandi**  
 B.Tech in Electronics and Communication Engineering (2022–26)  
-[Ramkrishna Mahato Government Engineering College, Purulia (RKMGECP)](https://rkmgec.ac.in)  
+[Ramkrishna Mahato Government Engineering College (RKMGEC)](https://rkmgec.ac.in)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/souvik-nandi-560b15260)
 
 ---
