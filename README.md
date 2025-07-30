@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="50" alt="IBM Logo">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://edunetfoundation.org/assets/img/logo/logo.png" height="50" alt="Edunet Foundation Logo">
+  <img src="https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png" height="50" alt="Edunet Foundation Logo">
 </p>
 
 # 🌍 TravelMate-AI
@@ -65,7 +65,7 @@ TravelMate AI is an AI-powered Travel Planner Agent that uses **Natural Language
   &nbsp;&nbsp;&nbsp;
   <img src="https://en.m.wikipedia.org/wiki/File:IBM_Cloud_logo.png" height="40" alt="IBM Cloud Logo">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://edunetfoundation.org/assets/img/logo/logo.png" height="40" alt="Edunet Foundation Logo">
+  <img src="https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png" height="40" alt="Edunet Foundation Logo">
 </p>
 
 Special thanks to **IBM**, **IBM Cloud**, and **Edunet Foundation** for providing tools, guidance, and resources that made this project possible.
