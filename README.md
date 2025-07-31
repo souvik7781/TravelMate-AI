@@ -1,6 +1,3 @@
-## TravelMate-AI
-
-<!-- Logos Section -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="50" alt="IBM Logo">
   &nbsp;&nbsp;&nbsp;
