@@ -76,8 +76,9 @@ Click below to view or download the official TravelMate AI project presentation 
 
 Special thanks to **IBM**, **IBM Cloud**, and **Edunet Foundation** for providing tools, guidance, and resources that made this project possible.
 
-Special mention to [Aswini Kumar Motapothula](https://www.linkedin.com/in/aswini-kumar-motapothula) Sir for mentorship and valuable guidance throughout the project.  
+Special mention to [Aswini Kumar Motapothula](https://www.linkedin.com/in/aswini-kumar-motapothula) Sir for mentorship and valuable guidance throughout the project.
 
+---
 
 ## 👨‍💻 Developed By
 
