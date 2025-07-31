@@ -4,7 +4,7 @@
   <img src="https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png" height="50" alt="Edunet Foundation Logo">
 </p>
 
-# 🌍 TravelMate-AI
+# 🌍 TravelMate AI
 
 TravelMate AI is an AI-powered Travel Planner Agent that uses **Natural Language Processing (NLP)** and **Retrieval-Augmented Generation (RAG)** to assist users in generating personalized travel plans. It interacts naturally with users, understands their preferences, and fetches real-time travel data to recommend destinations, build itineraries, and optimize travel schedules seamlessly.
 
