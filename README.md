@@ -58,7 +58,7 @@ TravelMate AI is an AI-powered Travel Planner Agent that uses **Natural Language
 
 Click below to view or download the official TravelMate AI project presentation (`.pptx`):
 
-👉 [📥TravelMate Presentation](./Project-ppt/TravelMate.pptx)
+👉 [📥TravelMate Presentation File](./Project-ppt/TravelMate.pptx)
 
 
 --]
